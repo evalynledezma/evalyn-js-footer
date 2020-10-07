@@ -1,5 +1,5 @@
 ## YourName JS Footer
-> This should be use in the following manner
+> To use this package, follow these commands.
 Install with the command:
 ```
 $ npm install --save devcamp-js-footer
