@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/evalynledezma/evalyn-js-footer/issues"
   },
-  "homepage": "https://github.com/evalynledezma/evalyn-js-footer#readme"
+  "homepage": "https://github.com/evalynledezma/evalyn-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
