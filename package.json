@@ -1,0 +1,19 @@
+{
+  "name": "evalyn-js-footer",
+  "version": "1.0.0",
+  "description": "this is a dynamic footer with a date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalynledezma/evalyn-js-footer.git"
+  },
+  "author": "Evalyn Ledezma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evalynledezma/evalyn-js-footer/issues"
+  },
+  "homepage": "https://github.com/evalynledezma/evalyn-js-footer#readme"
+}
